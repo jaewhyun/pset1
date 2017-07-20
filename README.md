@@ -1,5 +1,5 @@
-# pset1
-CS50 Problem Set 1 Smart Water
+# CS50 pset1 - Smart Water
+
 
 A. Water
 Write a program that asks the user for the duration of his/her shower in minutes.
